@@ -1,31 +1,35 @@
-# 🌙 SleepyHead Studios
+# 💤 **SleepyHead Studios**
 
-**SleepyHead Studios** is a chill indie game team focused on crafting soulful, experimental games powered by passion, pixels, and a little bit of sleep deprivation. We thrive on storytelling, immersive design, and making the kind of games we’d play at 3AM.
-
----
-
-## 🚀 The Website
-
-This is the official website of SleepyHead Studios — built to showcase our games, updates, and the vibes we stand for. Sleek. Minimal. Responsive.
-
-### 🔧 Tech Stack
-
-- ⚡ **Next.js** – Blazing fast React framework  
-- 🎨 **Tailwind CSS** – Utility-first, responsive styling  
-- 🎞️ **Swiper.js** – Smooth, touch-friendly sliders  
-- 🧠 **Headless UI** – Accessible UI components  
-- ☁️ **Vercel** – Effortless deployment  
+> _We make weird, wonderful, slightly chaotic indie games — powered by caffeine & imagination._
 
 ---
 
-## 🧠 Just a Thought
+## 🚀 **Project: SleepyHead Web Portal**
 
-> “Good games aren’t just built... they’re felt.”  
->  
-> We’re not trying to be the biggest — just the most memorable.
+A clean and bold portfolio site for our indie games and updates.  
+Built to feel **alive**, **dark**, and **playful** — just like our games.
 
 ---
 
-🕹️ [itch.io](https://sleepyheadstudios.itch.io)  
-📬 contact@sleepyheadstudios.dev  
-🌌 More soon...
+## 🛠 **Tech Stack**
+
+- ⚛️ **Next.js (App Router)**
+- 🎨 **Tailwind CSS**
+- 🧩 **Headless UI**
+- 🖼️ **SwiperJS** (for banners + carousels)
+- 🌐 **Vercel Hosting**
+
+---
+
+## 💡 **Our Vibe**
+
+> **We’re not AAA. We’re not polished. We’re *SleepyHead*.**  
+> And we’re here to make fun things that feel alive.
+
+🎮 [**Play our games on Itch.io →**](https://sleepyheadstudios.itch.io)
+
+---
+
+### 🧠 **Experimental.** 🕹️ **Playable.** 💭 **Kinda deep (sometimes).**
+
+---
